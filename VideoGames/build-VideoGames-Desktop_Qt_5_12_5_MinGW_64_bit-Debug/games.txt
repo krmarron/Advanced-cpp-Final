@@ -1,0 +1,5 @@
+Phasmophobia, Horror, PC, 10.99, 4Title: Phasmophobia
+Genre: Horror
+Console: PC
+Price: $10.99
+Players: 4
